@@ -1,5 +1,6 @@
 {
   "name": "nodejs",
+  "type": "module",
   "version": "1.0.0",
   "description": "This is nodeJS tutorial practice",
   "main": "index.js",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mark-Eugene-Barasu/NodeJS/issues"
   },
-  "homepage": "https://github.com/Mark-Eugene-Barasu/NodeJS#readme"
+  "homepage": "https://github.com/Mark-Eugene-Barasu/NodeJS#readme",
+  "dependencies": {
+    "superheroes": "^4.0.0"
+  }
 }

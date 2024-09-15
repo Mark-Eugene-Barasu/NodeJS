@@ -1,3 +1,6 @@
-const fs = require(`fs`);
+// jshint ESversion:6
+import { random } from `superheroes`;
 
-fs.copyFileSync(`file2.txt`, `file1.txt`);
+let mySuperhero  = random();
+
+console.log(mySuperhero);
