@@ -1,6 +1,4 @@
-// jshint ESversion:6
-import { random } from `superheroes`;
+import {randomSuperhero} from 'superheroes';
 
-let mySuperhero  = random();
-
-console.log(mySuperhero);
+randomSuperhero();
+//=> 'Spider-Ham'
