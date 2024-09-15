@@ -1,3 +1,4 @@
-import supervillains from 'supervillains';
+import {randomSupervillain} from 'supervillains';
 
-console.log(supervillains);
+console.log(randomSupervillain());
+//=> 'Mud Pack'
