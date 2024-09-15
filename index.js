@@ -1,4 +1,3 @@
-import {randomSuperhero} from 'superheroes';
+import supervillains from 'supervillains';
 
-console.log(randomSuperhero());
-//=> 'Spider-Ham'
+console.log(supervillains);

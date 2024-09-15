@@ -1,23 +1,5 @@
 {
-  "name": "nodejs",
-  "type": "module",
-  "version": "1.0.0",
-  "description": "This is nodeJS tutorial practice",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Mark-Eugene-Barasu/NodeJS.git"
-  },
-  "author": "Eugene Mark Korku Barasu",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Mark-Eugene-Barasu/NodeJS/issues"
-  },
-  "homepage": "https://github.com/Mark-Eugene-Barasu/NodeJS#readme",
   "dependencies": {
-    "superheroes": "^4.0.0"
+    "supervillains": "^4.0.0"
   }
 }
