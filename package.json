@@ -1,6 +1,6 @@
-{ 
-  "type": "module",
-  "dependencies": {
-    "supervillains": "^4.0.0"
+{
+  "type":"module",
+  "dependencies":{
+    "superheroes":"^4.0.0","supervillains":"^4.0.0"
   }
 }
